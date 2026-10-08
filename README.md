@@ -11,6 +11,7 @@ Throughout the project, preprocessing steps that learn from data (outlier cappin
 ```
 .
 ├── README.md
+├── DATA SCIENCE PRESENTATION.pdf
 ├── data/
 │   ├── student-mat.csv            # raw dataset (input)
 │   ├── student_processed.csv      # created by notebook 01
