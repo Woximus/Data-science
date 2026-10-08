@@ -53,4 +53,6 @@ pip install pandas numpy scipy scikit-learn statsmodels matplotlib seaborn jupyt
 
 ## Dataset
 
+https://archive.ics.uci.edu/dataset/320/student+performance
+
 P. Cortez and A. Silva, *Using Data Mining to Predict Secondary School Student Performance*, 2008. Available from the UCI Machine Learning Repository.
