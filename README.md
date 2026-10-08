@@ -11,6 +11,7 @@ Throughout the project, preprocessing steps that learn from data (outlier cappin
 ```
 .
 ├── README.md
+├── DATA SCIENCE PRESENTATION.pdf
 ├── data/
 │   ├── student-mat.csv            # raw dataset (input)
 │   ├── student_processed.csv      # created by notebook 01
@@ -51,5 +52,7 @@ pip install pandas numpy scipy scikit-learn statsmodels matplotlib seaborn jupyt
 > Notebooks use relative paths (`../data/...`), so they must be run from inside the `notebooks/` folder.
 
 ## Dataset
+
+https://archive.ics.uci.edu/dataset/320/student+performance
 
 P. Cortez and A. Silva, *Using Data Mining to Predict Secondary School Student Performance*, 2008. Available from the UCI Machine Learning Repository.
